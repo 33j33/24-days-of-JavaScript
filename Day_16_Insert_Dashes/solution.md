@@ -2,6 +2,8 @@
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-insert-dashes-introduction-co2914310ba38bcaab285ccfa
 
+<img src="./problem.JPG">
+
 ## Solution
 
 ```javascript
