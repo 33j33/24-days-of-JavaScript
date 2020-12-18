@@ -1,5 +1,9 @@
 ## Problem
 
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-different-symbols-naive-introduction-cocf74b85b168559bf4e75a1a
+
+<img src="problem.JPG">
+
 ## Solution
 
 This problem can be solved in quite a different ways. I have demonstrated three ways. 
